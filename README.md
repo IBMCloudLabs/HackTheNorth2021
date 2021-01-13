@@ -14,7 +14,7 @@ Instructions for Hack the North 2021 IBM API workskshop.
 ## Set up
 In this workshop, we will make use of a starter kit to demonstrate deploying and using the Natrual Language Understanding service running on the IBM Cloud.
 1. Navigate to the [Natural Language Understanding Node.js App](https://cloud.ibm.com/developer/watson/create-app?defaultDeploymentToolchain=&defaultLanguage=NODE&env_id=ibm%3Ayp%3Aus-south&navMode=starterkits&starterKit=b62c00f1-65b2-38a4-9f91-d429fb6745a6) starter kit, or select the entry from the [IBM Cloud catalog](https://cloud.ibm.com/catalog?search=label%3Aboilerplate#software).
-![starterkit-tile](./images/BoilerplateTile.png)
+![starterkit-tile](./images/StarterKitTile.png)
 1. Click the `Create` tab. If you're not logged in, login or register.
 ![create-tab](./images/CreateTab.png)
 1. Leave the defaults and click the `Create` button.
