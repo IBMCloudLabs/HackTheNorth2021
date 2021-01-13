@@ -4,7 +4,6 @@ Instructions for Hack the North 2021 IBM API workskshop.
 - [Resources](#resources)
 - [Set up](#set-up)
 - [Using your toolchain](#using-your-toolchain)
-- [Registering and using the catalog](#registering-and-using-the-catalog)
 
 ## Resources
 * Connect with the IBM team in the `#ibm` discord channel.
